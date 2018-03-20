@@ -6,7 +6,7 @@
 body{
 	margin:0;
 	padding:0;
-    background:#FFF;
+    background:#7F62CF;
     overflow-x:hidden;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
@@ -276,6 +276,7 @@ button{
 
 h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	font-family:"Helvetica";
+	color: #FFFFFF;
 }
 .container{
 	max-width:1170px;
@@ -287,7 +288,7 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 /* Background colour styles */
 
 .bgc-white{
-	background-color:#ffffff;
+	background-color:#7F62CF;
 }
 
 
